@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Oct 23 16:20:17 ART 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017c-ae98-baca-0000040e04a8 
+on database directory /home/claudio/Documents/Ites/Programacion II/Ahorcado_V1.1/HibernateDerby with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/claudio/Documents/Ites/Programacion%20II/Ahorcado_V1.1/lib/org.apache.servicemix.bundles.derby-10.14.2.0_1.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_292-8u292-b10-0ubuntu1~20.04-b10
+user.dir=/home/claudio/Documents/Ites/Programacion II/Ahorcado_V1.1
+os.name=Linux
+os.arch=amd64
+os.version=5.11.0-38-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
